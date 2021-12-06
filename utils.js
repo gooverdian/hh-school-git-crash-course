@@ -1,5 +1,5 @@
 const getName = (person) => person.name;
 
 const sayHello = (person) => {
-    conosle.log(`Hello, ${getName(person)}`);
+    console.log(`Hello, ${getName(person)}`);
 }
