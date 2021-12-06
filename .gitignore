@@ -1,3 +1,6 @@
 .idea
 Thumbs.db
 desktop.ini
+*.pyo
+*.pyc
+trash.bin
